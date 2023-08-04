@@ -34,8 +34,14 @@ DataFrame, Preprocessing, Decision Tree
 
 ## :mag_right: 결론
 최고 정확도 : Decision Tree Regressor
+
+
 선형 그래프와 유사한 형태 : Linear Regression, LightGBM
+
+
 최선의 목표치 : 결정계수가 0.9이상으론 도달하지 못함
+
+
 
 
 
