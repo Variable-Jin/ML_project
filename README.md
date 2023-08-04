@@ -11,10 +11,18 @@ Python + scikit-learn _ ML analyze
 
 ### :hammer: Tools
 Supervised Learning
+
+
 Linear Regression
+
+
 Decision Tree
+
+
 LightGBM <-> RandomizedSearchCV
-Random Forest
+
+
+Random Forest  
 
 ### :point_down: 역할
 DataFrame, Preprocessing, Decision Tree
